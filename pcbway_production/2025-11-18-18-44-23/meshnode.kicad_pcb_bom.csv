@@ -1,0 +1,18 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+C1,1,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor,
+C2,1,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,Unpolarized capacitor,
+D1,1,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,Light emitting diode,1=K 2=A
+J1,1,Conn_Coaxial,U.FL_Hirose_U.FL-R-SMT-1_Vertical,,,,smt,"coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)",
+R1,1,RLED,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,
+"R2, R3",2,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,Resistor,
+TP1,1,5v,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+"TP10, TP9",2,GND,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP2,1,MOSI,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP3,1,MISO,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP4,1,SCK,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP5,1,CS_ASS,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP6,1,SDA,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP7,1,SCL,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+TP8,1,3v3,TestPoint_THTPad_1.5x1.5mm_Drill0.7mm,,,,tht,test point,
+U2,1,RFM95W-915S2,HOPERF_RFM9XW_SMD,,,,smt,"Low power long range transceiver module, SPI and parallel interface, 915 MHz, spreading factor 6 to12, bandwidth 7.8 to 500kHz, -111 to -148 dBm, SMD-16, DIP-16",
+U3,1,rp2040-zero,rp2040-zero-smd,,,,smt,,
